@@ -31,17 +31,19 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          pip install pytest-html
           pip install pytest-html webdriver-manager
 
       - name: 🧪 Run tests and generate HTML report
+        continue-on-error: true  # ✅ Let next step run even if tests fail
         env:
           SELENIUM_REMOTE_URL: http://localhost:4444/wd/hub
         run: |
-          pytest --html=report.html --self-contained-html
+          mkdir -p reports
+          pytest --html=reports/report.html --self-contained-html
+          ls -la reports  # 🔍 Debugging: show files to confirm report exists
 
       - name: 📤 Upload HTML report
         uses: actions/upload-artifact@v4
         with:
           name: html-report
-          path: report.html
+          path: reports/report.html
