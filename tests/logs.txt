@@ -1,0 +1,296 @@
+2025-09-06 18:47:39,207 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 18:47:39,207 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 18:47:39,693 :INFO : test_login_1 :Email Entered
+2025-09-06 18:47:40,754 :INFO : test_login_1 :Proceeding to Password Page
+2025-09-06 18:47:40,787 :INFO : test_login_1 :Password Entered
+2025-09-06 18:47:44,065 :INFO : test_login_1 :Proceeding to Stay Signed-in Page
+2025-09-06 18:47:44,099 :INFO : test_login_1 :Proceeding to the main site!
+2025-09-06 18:48:08,170 :INFO : test_login_1 :Text is captured
+2025-09-06 18:48:12,210 :INFO : test_login_1 :FT Users
+TOTAL ENGINEERS
+Active
+In-Active
+TOTAL SUPPORTERS
+Active
+In-Active
+TOTAL SALES PERSONS
+Active
+In-Active
+Organizations
+Total Distributors
+Active
+In-Active
+Total Operators
+Active
+In-Active
+Measurements
+Total GRX Measurement
+Total LTL 3500 Measurement
+Instruments
+Total GRX
+Assigned
+Unassigned
+Total LTL 3500
+Assigned
+Unassigned
+2025-09-06 18:53:25,735 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 18:53:25,736 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 18:53:26,377 :INFO : test_login_1 :Email Entered
+2025-09-06 18:53:27,428 :INFO : test_login_1 :Proceeding to Password Page
+2025-09-06 18:53:27,458 :INFO : test_login_1 :Password Entered
+2025-09-06 18:53:30,784 :INFO : test_login_1 :Proceeding to Stay Signed-in Page
+2025-09-06 18:53:34,395 :INFO : test_login_1 :Proceeding to the main site!
+2025-09-06 18:53:36,410 :INFO : test_login_1 :Text is captured
+2025-09-06 18:53:40,451 :INFO : test_login_1 :FT Users
+TOTAL ENGINEERS
+Active
+In-Active
+TOTAL SUPPORTERS
+Active
+In-Active
+TOTAL SALES PERSONS
+Active
+In-Active
+Organizations
+Total Distributors
+Active
+In-Active
+Total Operators
+Active
+In-Active
+Measurements
+Total GRX Measurement
+Total LTL 3500 Measurement
+Instruments
+Total GRX
+Assigned
+Unassigned
+Total LTL 3500
+Assigned
+Unassigned
+2025-09-06 18:58:05,006 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 18:58:05,006 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 18:58:10,760 :INFO : test_login_1 :Email Entered
+2025-09-06 18:58:11,806 :INFO : test_login_1 :Proceeding to Password Page
+2025-09-06 18:58:11,833 :INFO : test_login_1 :Password Entered
+2025-09-06 18:58:15,512 :INFO : test_login_1 :Proceeding to Stay Signed-in Page
+2025-09-06 18:58:15,548 :INFO : test_login_1 :Proceeding to the main site!
+2025-09-06 18:58:21,231 :INFO : test_login_1 :Dashboard text captured: FT Users
+TOTAL ENGINEERS
+Active
+In-Active
+TOTAL SUPPORTERS
+Active
+In-Active
+TOTAL SALES PERSONS
+Active
+In-Active
+Organizations
+Total Distributors
+Active
+In-Active
+Total Operators
+Active
+In-Active
+Measurements
+Total GRX Measurement
+Total LTL 3500 Measurement
+Instruments
+Total GRX
+Assigned
+Unassigned
+Total LTL 3500
+Assigned
+Unassigned
+2025-09-06 19:01:36,110 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 19:01:36,111 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 19:01:43,497 :INFO : test_login_1 :Email Entered
+2025-09-06 19:01:44,559 :INFO : test_login_1 :Proceeding to Password Page
+2025-09-06 19:01:44,590 :INFO : test_login_1 :Password Entered
+2025-09-06 19:01:48,295 :INFO : test_login_1 :Proceeding to Stay Signed-in Page
+2025-09-06 19:01:48,330 :INFO : test_login_1 :Proceeding to the main site!
+2025-09-06 19:01:55,224 :INFO : test_login_1 :Dashboard text captured: FT Users
+TOTAL ENGINEERS
+Active
+In-Active
+TOTAL SUPPORTERS
+Active
+In-Active
+TOTAL SALES PERSONS
+Active
+In-Active
+Organizations
+Total Distributors
+Active
+In-Active
+Total Operators
+Active
+In-Active
+Measurements
+Total GRX Measurement
+Total LTL 3500 Measurement
+Instruments
+Total GRX
+Assigned
+Unassigned
+Total LTL 3500
+Assigned
+Unassigned
+2025-09-06 19:01:55,225 :INFO : test_login_1 :Login test passed successfully.
+2025-09-06 19:12:22,830 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 19:12:22,831 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 19:18:22,916 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 19:18:22,916 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 19:22:14,913 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 19:22:14,913 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 19:22:23,636 :INFO : test_login_1 :Proceeding to Stay Signed-in Page
+2025-09-06 19:27:20,570 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 19:27:20,571 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 19:27:30,066 :INFO : test_login_1 :Sign in button clicked
+2025-09-06 19:27:33,782 :INFO : test_login_1 :Proceeding to the main site!
+2025-09-06 19:31:01,188 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 19:31:01,188 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 19:31:10,661 :INFO : test_login_1 :Sign in button clicked
+2025-09-06 19:31:10,702 :INFO : test_login_1 :Proceeding to the main site!
+2025-09-06 19:32:42,914 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 19:32:42,914 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 19:32:54,221 :INFO : test_login_1 :Sign in button clicked
+2025-09-06 19:32:54,791 :INFO : test_login_1 :Proceeding to the main site!
+2025-09-06 19:36:31,235 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 19:36:31,236 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 19:36:42,143 :INFO : test_login_1 :Sign in button clicked
+2025-09-06 19:36:43,993 :INFO : test_login_1 :Proceeding to the main site!
+2025-09-06 19:38:00,680 :INFO : test_login_1 :----------------------------------------------------------------------------
+2025-09-06 19:38:00,680 :INFO : test_login_1 :Microsoft Button Clicked!
+2025-09-06 19:38:03,478 :INFO : test_login_1 :Sign in button clicked
+2025-09-06 19:38:05,634 :INFO : test_login_1 :Proceeding to the main site!
+2025-09-06 19:38:27,916 :INFO : test_login_1 :Dashboard text captured: FT Users
+TOTAL ENGINEERS
+Active
+In-Active
+TOTAL SUPPORTERS
+Active
+In-Active
+TOTAL SALES PERSONS
+Active
+In-Active
+Organizations
+Total Distributors
+Active
+In-Active
+Total Operators
+Active
+In-Active
+Measurements
+Total GRX Measurement
+Total LTL 3500 Measurement
+Instruments
+Total GRX
+Assigned
+Unassigned
+Total LTL 3500
+Assigned
+Unassigned
+2025-09-06 19:38:27,916 :INFO : test_login_1 :Login test passed successfully.
+2025-09-06 19:57:04,078 :INFO : test_login_1 :Clicking login button
+2025-09-06 19:57:06,554 :INFO : test_login_1 :Entering email
+2025-09-06 19:57:10,390 :INFO : test_login_1 :Clicking Next button
+2025-09-06 19:57:10,439 :INFO : test_login_1 :Entering password
+2025-09-06 19:57:12,076 :INFO : test_login_1 :Clicking Sign in button
+2025-09-06 20:20:51,589 :INFO : test_login_1 :Clicking login button
+2025-09-06 20:20:56,693 :INFO : test_login_1 :Entering email
+2025-09-06 20:20:57,987 :INFO : test_login_1 :Clicking Next button
+2025-09-06 20:20:58,035 :INFO : test_login_1 :Entering password
+2025-09-06 20:21:00,188 :INFO : test_login_1 :Clicking Sign in button
+2025-09-06 20:21:00,295 :INFO : test_login_1 :Stay Signed-In
+2025-09-06 20:26:40,595 :INFO : test_login_1 :Clicking login button
+2025-09-06 20:26:44,100 :INFO : test_login_1 :Entering email
+2025-09-06 20:26:47,140 :INFO : test_login_1 :Clicking Next button
+2025-09-06 20:26:47,186 :INFO : test_login_1 :Entering password
+2025-09-06 20:26:49,313 :INFO : test_login_1 :Clicking Sign in button
+2025-09-06 20:26:51,578 :INFO : test_login_1 :Stay Signed-In
+2025-09-06 20:26:52,154 :INFO : test_login_1 :Getting dashboard text
+2025-09-06 20:27:52,132 :INFO : test_login_1 :Clicking login button
+2025-09-06 20:27:52,850 :INFO : test_login_1 :Entering email
+2025-09-06 20:28:00,034 :INFO : test_login_1 :Clicking Next button
+2025-09-06 20:28:00,089 :INFO : test_login_1 :Entering password
+2025-09-06 20:28:02,230 :INFO : test_login_1 :Clicking Sign in button
+2025-09-06 20:28:02,272 :INFO : test_login_1 :Stay Signed-In
+2025-09-06 20:28:02,313 :INFO : test_login_1 :Getting dashboard text
+2025-09-06 20:29:34,700 :INFO : test_login_1 :Clicking login button
+2025-09-06 20:29:35,241 :INFO : test_login_1 :Entering email
+2025-09-06 20:29:42,284 :INFO : test_login_1 :Clicking Next button
+2025-09-06 20:29:42,333 :INFO : test_login_1 :Entering password
+2025-09-06 20:29:44,441 :INFO : test_login_1 :Clicking Sign in button
+2025-09-06 20:29:44,545 :INFO : test_login_1 :Stay Signed-In
+2025-09-06 20:29:44,581 :INFO : test_login_1 :Getting dashboard text
+2025-09-06 20:34:35,009 :INFO : test_login_1 :Clicking login button
+2025-09-06 20:34:35,560 :INFO : test_login_1 :Entering email
+2025-09-06 20:34:42,780 :INFO : test_login_1 :Clicking Next button
+2025-09-06 20:34:42,826 :INFO : test_login_1 :Entering password
+2025-09-06 20:34:45,475 :INFO : test_login_1 :Clicking Sign in button
+2025-09-06 20:34:47,205 :INFO : test_login_1 :Stay Signed-In
+2025-09-06 20:34:51,757 :INFO : test_login_1 :Getting dashboard text
+2025-09-06 20:35:27,377 :INFO : test_login_1 :Dashboard text captured: FT Users
+TOTAL ENGINEERS
+Active
+In-Active
+TOTAL SUPPORTERS
+Active
+In-Active
+TOTAL SALES PERSONS
+Active
+In-Active
+Organizations
+Total Distributors
+Active
+In-Active
+Total Operators
+Active
+In-Active
+Measurements
+Total GRX Measurement
+Total LTL 3500 Measurement
+Instruments
+Total GRX
+Assigned
+Unassigned
+Total LTL 3500
+Assigned
+Unassigned
+2025-09-06 20:35:27,377 :INFO : test_login_1 :Login test passed successfully.
+2025-09-06 20:40:11,542 :INFO : test_login_1 :Clicking login button
+2025-09-06 20:40:15,479 :INFO : test_login_1 :Entering email
+2025-09-06 20:40:18,922 :INFO : test_login_1 :Clicking Next button
+2025-09-06 20:40:18,969 :INFO : test_login_1 :Entering password
+2025-09-06 20:40:20,611 :INFO : test_login_1 :Clicking Sign in button
+2025-09-06 20:40:22,085 :INFO : test_login_1 :Stay Signed-In
+2025-09-06 20:40:22,658 :INFO : test_login_1 :Getting dashboard text
+2025-09-06 20:40:26,822 :INFO : test_login_1 :Dashboard text captured: FT Users
+TOTAL ENGINEERS
+Active
+In-Active
+TOTAL SUPPORTERS
+Active
+In-Active
+TOTAL SALES PERSONS
+Active
+In-Active
+Organizations
+Total Distributors
+Active
+In-Active
+Total Operators
+Active
+In-Active
+Measurements
+Total GRX Measurement
+Total LTL 3500 Measurement
+Instruments
+Total GRX
+Assigned
+Unassigned
+Total LTL 3500
+Assigned
+Unassigned
+2025-09-06 20:40:26,823 :INFO : test_login_1 :Login test passed successfully.
