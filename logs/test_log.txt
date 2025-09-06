@@ -1,0 +1,22 @@
+2025-09-06 22:06:38,115 :INFO : test_login_1 :Clicking login button
+2025-09-06 22:06:38,164 :INFO : test_login_1 :Entering email
+2025-09-06 22:06:47,651 :INFO : test_login_1 :Clicking Next button
+2025-09-06 22:06:47,697 :INFO : test_login_1 :Entering password
+2025-09-06 22:06:51,915 :INFO : test_login_1 :Clicking Sign in button
+2025-09-06 22:06:53,655 :INFO : test_login_1 :Stay Signed-In
+2025-09-06 22:06:57,433 :INFO : test_login_1 :Getting dashboard text
+2025-09-06 22:08:22,482 :INFO : test_login_1 :Clicking login button
+2025-09-06 22:08:22,545 :INFO : test_login_1 :Entering email
+2025-09-06 22:08:26,157 :INFO : test_login_1 :Clicking Next button
+2025-09-06 22:08:26,217 :INFO : test_login_1 :Entering password
+2025-09-06 22:08:27,320 :INFO : test_login_1 :Clicking Sign in button
+2025-09-06 22:08:27,381 :INFO : test_login_1 :Stay Signed-In
+2025-09-06 22:08:27,437 :INFO : test_login_1 :Getting dashboard text
+2025-09-06 22:09:52,474 :INFO : test_login_1 :Clicking login button
+2025-09-06 22:16:56,273 :INFO : test_login_1 :Clicking login button
+2025-09-06 22:17:02,317 :INFO : test_login_1 :Entering email
+2025-09-06 22:17:03,501 :INFO : test_login_1 :Clicking Next button
+2025-09-06 22:17:03,550 :INFO : test_login_1 :Entering password
+2025-09-06 22:17:05,679 :INFO : test_login_1 :Clicking Sign in button
+2025-09-06 22:17:07,672 :INFO : test_login_1 :Stay Signed-In
+2025-09-06 22:17:08,248 :INFO : test_login_1 :Getting dashboard text
