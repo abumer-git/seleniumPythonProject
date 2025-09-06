@@ -1,14 +1,8 @@
 import sys
 import os
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
-# Add project root directory to sys.path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-
-from selenium.webdriver.common.by import By
-import time
 from utilities.BaseClass import BaseClass
 from utilities.test_data import LoginData
 from utilities.LoginPage import LoginPage

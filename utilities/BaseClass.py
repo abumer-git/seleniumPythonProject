@@ -9,18 +9,18 @@ class BaseClass:
         loggerName = inspect.stack()[1][3]
         logger = logging.getLogger(loggerName)
 
-        # 🔽 Automatically create a 'logs' directory in project root if it doesn't exist
+        # Automatically create a 'logs' directory in project root if it doesn't exist
         logs_dir = os.path.join(os.getcwd(), "logs")
         os.makedirs(logs_dir, exist_ok=True)
 
-        # 🔽 Log file path (platform-independent)
+        # Log file path (platform-independent)
         log_file_path = os.path.join(logs_dir, "test_log.txt")
 
-        # 🔁 Reset logger handlers to avoid duplication or missing logs
+        # Reset logger handlers to avoid duplication or missing logs
         if logger.hasHandlers():
             logger.handlers.clear()
 
-        # 🔧 Set up file handler
+        # Set up file handler
         fileHandler = logging.FileHandler(log_file_path)
         formatter = logging.Formatter("%(asctime)s :%(levelname)s : %(name)s :%(message)s")
         fileHandler.setFormatter(formatter)
