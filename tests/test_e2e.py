@@ -37,12 +37,12 @@ class Test_rshub(BaseClass):
 
         # ----------------------------------------------------------------------
 
-        # ✅ Get dashboard text
+        # Get dashboard text
         log.info("Getting dashboard text")
         dashboard_text = login_page.dashboard()
         log.info("Dashboard text captured: " + dashboard_text)
 
-        # ✅ Assert expected content is present
+        # Assert expected content is present
         assert "Dashboard" in dashboard_text or "FT Users" in dashboard_text, \
             f"Expected dashboard text not found. Got: {dashboard_text}"
 
